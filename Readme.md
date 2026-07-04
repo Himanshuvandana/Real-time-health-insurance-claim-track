@@ -267,7 +267,7 @@ medguard_ai/
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/kcchawla85/medguard_ai.git
+git clone https://github.com/Himanshuvandana/Real-time-health-insurance-claim-track.git
 cd medguard-ai
 ```
 
